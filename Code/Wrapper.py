@@ -8,7 +8,7 @@ Colab file can be found at:
 	https://colab.research.google.com/drive/1FUByhYCYAfpl8J9VxMQ1DcfITpY8qgsF
 
 Author(s): 
-Prof. Nitin J. Sanket (nsanket@wpi.edu), Lening Li (lli4@wpi.edu), Gejji, Vaishnavi Vivek (vgejji@wpi.edu)
+Chinmaya Khamesra
 Robotics Engineering Department,
 Worcester Polytechnic Institute
 
